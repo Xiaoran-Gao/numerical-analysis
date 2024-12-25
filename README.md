@@ -1,6 +1,6 @@
 # numerical-analysis
 
-Code for Numerical Analysis (Fall 2024)
+Code for *Numerical Analysis* (Fall 2024)
 
 《数值分析》课程部分算法实现
 
