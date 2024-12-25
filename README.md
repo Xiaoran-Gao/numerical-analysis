@@ -1,6 +1,6 @@
 # numerical-analysis
 
-Code for Numerical Analysis (Fall 2024).
+Code for Numerical Analysis (Fall 2024)
 
 《数值分析》课程部分算法实现
 
@@ -8,12 +8,14 @@ Code for Numerical Analysis (Fall 2024).
 
 ### 第1章 数值分析与科学计算引论
 
+| 代码文件 |   内容          |
 | -------  | --------------  |
 | `ex11.m` |  数值算法稳定性   |
 | `ex12.m` |  “大数吃小数”    |
 
 ### 第2章 插值法
 
+| 代码文件   |   内容          |
 | -------- | ------------ |
 | `ex21.m` |  Lagrange插值  |
 | `ex22.m` | 等距节点插值误差 |
@@ -26,6 +28,7 @@ Code for Numerical Analysis (Fall 2024).
 
 ### 第3章 函数逼近与快速傅里叶变换
 
+| 代码文件   |   内容          |
 | -------- | --------------- |
 | `ex31.m` |  Legendre多项式  |
 | `ex32.m` | Chebyshev多项式 |
